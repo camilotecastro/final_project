@@ -9,7 +9,7 @@
     <version>1.0-SNAPSHOT</version>
   </parent>
 
-  <artifactId>api_music_fetch</artifactId>
+  <artifactId>api_photo_fetch</artifactId>
 
   <dependencies>
     <dependency>
